@@ -1,0 +1,1141 @@
+{
+  "temperature_c": [
+    {
+      "line": "L1",
+      "at": "2026-07-01T10:00",
+      "recipe": "R1",
+      "phase": "steady",
+      "value": 50.75,
+      "quality": "observed"
+    },
+    {
+      "line": "L1",
+      "at": "2026-07-01T10:01",
+      "recipe": "R1",
+      "phase": "steady",
+      "value": 51.25,
+      "quality": "observed"
+    },
+    {
+      "line": "L1",
+      "at": "2026-07-01T10:02",
+      "recipe": "R1",
+      "phase": "steady",
+      "value": 50.5,
+      "quality": "observed"
+    },
+    {
+      "line": "L1",
+      "at": "2026-07-01T10:03",
+      "recipe": "R1",
+      "phase": "steady",
+      "value": 51.0,
+      "quality": "observed"
+    },
+    {
+      "line": "L1",
+      "at": "2026-07-01T10:04",
+      "recipe": "R1",
+      "phase": "steady",
+      "value": 51.5,
+      "quality": "observed"
+    },
+    {
+      "line": "L1",
+      "at": "2026-07-01T10:05",
+      "recipe": "R1",
+      "phase": "steady",
+      "value": 50.75,
+      "quality": "observed"
+    },
+    {
+      "line": "L1",
+      "at": "2026-07-01T10:06",
+      "recipe": "R1",
+      "phase": "steady",
+      "value": 51.25,
+      "quality": "observed"
+    },
+    {
+      "line": "L1",
+      "at": "2026-07-01T10:07",
+      "recipe": "R1",
+      "phase": "steady",
+      "value": 50.5,
+      "quality": "observed"
+    },
+    {
+      "line": "L1",
+      "at": "2026-07-01T10:08",
+      "recipe": "R1",
+      "phase": "steady",
+      "value": 51.0,
+      "quality": "observed"
+    },
+    {
+      "line": "L1",
+      "at": "2026-07-01T10:09",
+      "recipe": "R1",
+      "phase": "steady",
+      "value": 51.5,
+      "quality": "observed"
+    },
+    {
+      "line": "L1",
+      "at": "2026-07-01T10:10",
+      "recipe": "R1",
+      "phase": "steady",
+      "value": 50.75,
+      "quality": "observed"
+    },
+    {
+      "line": "L1",
+      "at": "2026-07-01T10:11",
+      "recipe": "R1",
+      "phase": "steady",
+      "value": 51.25,
+      "quality": "observed"
+    },
+    {
+      "line": "L1",
+      "at": "2026-07-01T10:12",
+      "recipe": "R1",
+      "phase": "steady",
+      "value": 50.5,
+      "quality": "observed"
+    },
+    {
+      "line": "L1",
+      "at": "2026-07-01T10:13",
+      "recipe": "R1",
+      "phase": "steady",
+      "value": 51.0,
+      "quality": "observed"
+    },
+    {
+      "line": "L1",
+      "at": "2026-07-01T10:14",
+      "recipe": "R1",
+      "phase": "steady",
+      "value": 51.5,
+      "quality": "observed"
+    },
+    {
+      "line": "L1",
+      "at": "2026-07-01T10:15",
+      "recipe": "R1",
+      "phase": "steady",
+      "value": 50.75,
+      "quality": "observed"
+    },
+    {
+      "line": "L1",
+      "at": "2026-07-01T10:16",
+      "recipe": "R1",
+      "phase": "steady",
+      "value": 51.25,
+      "quality": "observed"
+    },
+    {
+      "line": "L1",
+      "at": "2026-07-01T10:17",
+      "recipe": "R1",
+      "phase": "steady",
+      "value": 50.5,
+      "quality": "observed"
+    },
+    {
+      "line": "L1",
+      "at": "2026-07-01T10:18",
+      "recipe": "R1",
+      "phase": "steady",
+      "value": 51.0,
+      "quality": "observed"
+    },
+    {
+      "line": "L1",
+      "at": "2026-07-01T10:19",
+      "recipe": "R1",
+      "phase": "steady",
+      "value": 51.5,
+      "quality": "observed"
+    },
+    {
+      "line": "L1",
+      "at": "2026-07-01T10:20",
+      "recipe": "R1",
+      "phase": "steady",
+      "value": 50.75,
+      "quality": "observed"
+    },
+    {
+      "line": "L1",
+      "at": "2026-07-01T10:21",
+      "recipe": "R1",
+      "phase": "steady",
+      "value": 51.25,
+      "quality": "observed"
+    },
+    {
+      "line": "L1",
+      "at": "2026-07-01T10:22",
+      "recipe": "R1",
+      "phase": "steady",
+      "value": 50.5,
+      "quality": "observed"
+    },
+    {
+      "line": "L1",
+      "at": "2026-07-01T10:23",
+      "recipe": "R1",
+      "phase": "steady",
+      "value": 51.0,
+      "quality": "observed"
+    },
+    {
+      "line": "L1",
+      "at": "2026-07-02T10:00",
+      "recipe": "R1",
+      "phase": "steady",
+      "value": 50.75,
+      "quality": "observed"
+    },
+    {
+      "line": "L1",
+      "at": "2026-07-02T10:01",
+      "recipe": "R1",
+      "phase": "steady",
+      "value": 51.25,
+      "quality": "observed"
+    },
+    {
+      "line": "L1",
+      "at": "2026-07-02T10:02",
+      "recipe": "R1",
+      "phase": "steady",
+      "value": 50.5,
+      "quality": "observed"
+    },
+    {
+      "line": "L1",
+      "at": "2026-07-02T10:03",
+      "recipe": "R1",
+      "phase": "steady",
+      "value": 51.0,
+      "quality": "observed"
+    },
+    {
+      "line": "L1",
+      "at": "2026-07-02T10:04",
+      "recipe": "R1",
+      "phase": "steady",
+      "value": 51.5,
+      "quality": "observed"
+    },
+    {
+      "line": "L1",
+      "at": "2026-07-02T10:05",
+      "recipe": "R1",
+      "phase": "steady",
+      "value": 50.75,
+      "quality": "observed"
+    },
+    {
+      "line": "L1",
+      "at": "2026-07-02T10:06",
+      "recipe": "R1",
+      "phase": "steady",
+      "value": 51.25,
+      "quality": "observed"
+    },
+    {
+      "line": "L1",
+      "at": "2026-07-02T10:07",
+      "recipe": "R1",
+      "phase": "steady",
+      "value": 50.5,
+      "quality": "observed"
+    },
+    {
+      "line": "L1",
+      "at": "2026-07-02T10:08",
+      "recipe": "R1",
+      "phase": "steady",
+      "value": 51.0,
+      "quality": "observed"
+    },
+    {
+      "line": "L1",
+      "at": "2026-07-02T10:09",
+      "recipe": "R1",
+      "phase": "steady",
+      "value": 51.5,
+      "quality": "observed"
+    },
+    {
+      "line": "L1",
+      "at": "2026-07-02T10:10",
+      "recipe": "R1",
+      "phase": "steady",
+      "value": 50.75,
+      "quality": "observed"
+    },
+    {
+      "line": "L1",
+      "at": "2026-07-02T10:11",
+      "recipe": "R1",
+      "phase": "steady",
+      "value": 51.25,
+      "quality": "observed"
+    },
+    {
+      "line": "L1",
+      "at": "2026-07-02T10:12",
+      "recipe": "R1",
+      "phase": "steady",
+      "value": 50.5,
+      "quality": "observed"
+    },
+    {
+      "line": "L1",
+      "at": "2026-07-02T10:13",
+      "recipe": "R1",
+      "phase": "steady",
+      "value": 51.0,
+      "quality": "observed"
+    },
+    {
+      "line": "L1",
+      "at": "2026-07-02T10:14",
+      "recipe": "R1",
+      "phase": "steady",
+      "value": 51.5,
+      "quality": "observed"
+    },
+    {
+      "line": "L1",
+      "at": "2026-07-02T10:15",
+      "recipe": "R1",
+      "phase": "steady",
+      "value": 50.75,
+      "quality": "observed"
+    },
+    {
+      "line": "L1",
+      "at": "2026-07-02T10:16",
+      "recipe": "R1",
+      "phase": "steady",
+      "value": 51.25,
+      "quality": "observed"
+    },
+    {
+      "line": "L1",
+      "at": "2026-07-02T10:17",
+      "recipe": "R1",
+      "phase": "steady",
+      "value": 50.5,
+      "quality": "observed"
+    },
+    {
+      "line": "L1",
+      "at": "2026-07-02T10:18",
+      "recipe": "R1",
+      "phase": "steady",
+      "value": 51.0,
+      "quality": "observed"
+    },
+    {
+      "line": "L1",
+      "at": "2026-07-02T10:19",
+      "recipe": "R1",
+      "phase": "steady",
+      "value": 51.5,
+      "quality": "observed"
+    },
+    {
+      "line": "L1",
+      "at": "2026-07-02T10:20",
+      "recipe": "R1",
+      "phase": "steady",
+      "value": 50.75,
+      "quality": "observed"
+    },
+    {
+      "line": "L1",
+      "at": "2026-07-02T10:21",
+      "recipe": "R1",
+      "phase": "steady",
+      "value": 51.25,
+      "quality": "observed"
+    },
+    {
+      "line": "L1",
+      "at": "2026-07-02T10:22",
+      "recipe": "R1",
+      "phase": "steady",
+      "value": 50.5,
+      "quality": "observed"
+    },
+    {
+      "line": "L1",
+      "at": "2026-07-02T10:23",
+      "recipe": "R1",
+      "phase": "steady",
+      "value": 51.0,
+      "quality": "observed"
+    },
+    {
+      "line": "L1",
+      "at": "2026-07-03T10:00",
+      "recipe": "R1",
+      "phase": "steady",
+      "value": 50.75,
+      "quality": "observed"
+    },
+    {
+      "line": "L1",
+      "at": "2026-07-03T10:01",
+      "recipe": "R1",
+      "phase": "steady",
+      "value": 51.25,
+      "quality": "observed"
+    },
+    {
+      "line": "L1",
+      "at": "2026-07-03T10:02",
+      "recipe": "R1",
+      "phase": "steady",
+      "value": 50.5,
+      "quality": "observed"
+    },
+    {
+      "line": "L1",
+      "at": "2026-07-03T10:03",
+      "recipe": "R1",
+      "phase": "steady",
+      "value": 51.0,
+      "quality": "observed"
+    },
+    {
+      "line": "L1",
+      "at": "2026-07-03T10:04",
+      "recipe": "R1",
+      "phase": "steady",
+      "value": 51.5,
+      "quality": "observed"
+    },
+    {
+      "line": "L1",
+      "at": "2026-07-03T10:05",
+      "recipe": "R1",
+      "phase": "steady",
+      "value": 50.75,
+      "quality": "observed"
+    },
+    {
+      "line": "L1",
+      "at": "2026-07-03T10:06",
+      "recipe": "R3",
+      "phase": "switch",
+      "value": 55.25,
+      "quality": "observed"
+    },
+    {
+      "line": "L1",
+      "at": "2026-07-03T10:07",
+      "recipe": "R3",
+      "phase": "switch",
+      "value": 54.5,
+      "quality": "observed"
+    },
+    {
+      "line": "L1",
+      "at": "2026-07-03T10:08",
+      "recipe": "R3",
+      "phase": "switch",
+      "value": 55.0,
+      "quality": "observed"
+    },
+    {
+      "line": "L1",
+      "at": "2026-07-03T10:09",
+      "recipe": "R3",
+      "phase": "steady",
+      "value": 55.5,
+      "quality": "observed"
+    },
+    {
+      "line": "L1",
+      "at": "2026-07-03T10:10",
+      "recipe": "R3",
+      "phase": "steady",
+      "value": 54.75,
+      "quality": "observed"
+    },
+    {
+      "line": "L1",
+      "at": "2026-07-03T10:11",
+      "recipe": "R3",
+      "phase": "steady",
+      "value": 55.25,
+      "quality": "observed"
+    },
+    {
+      "line": "L1",
+      "at": "2026-07-03T10:12",
+      "recipe": "R3",
+      "phase": "steady",
+      "value": 54.5,
+      "quality": "observed"
+    },
+    {
+      "line": "L1",
+      "at": "2026-07-03T10:13",
+      "recipe": "R3",
+      "phase": "steady",
+      "value": 61.0,
+      "quality": "observed"
+    },
+    {
+      "line": "L1",
+      "at": "2026-07-03T10:14",
+      "recipe": "R3",
+      "phase": "steady",
+      "value": 61.5,
+      "quality": "observed"
+    },
+    {
+      "line": "L1",
+      "at": "2026-07-03T10:15",
+      "recipe": "R3",
+      "phase": "steady",
+      "value": 60.75,
+      "quality": "observed"
+    },
+    {
+      "line": "L1",
+      "at": "2026-07-03T10:16",
+      "recipe": "R3",
+      "phase": "steady",
+      "value": 61.25,
+      "quality": "observed"
+    },
+    {
+      "line": "L1",
+      "at": "2026-07-03T10:17",
+      "recipe": "R3",
+      "phase": "steady",
+      "value": 60.5,
+      "quality": "observed"
+    },
+    {
+      "line": "L1",
+      "at": "2026-07-03T10:18",
+      "recipe": "R3",
+      "phase": "steady",
+      "value": 61.0,
+      "quality": "observed"
+    },
+    {
+      "line": "L1",
+      "at": "2026-07-03T10:19",
+      "recipe": "R3",
+      "phase": "steady",
+      "value": 55.5,
+      "quality": "observed"
+    },
+    {
+      "line": "L1",
+      "at": "2026-07-03T10:20",
+      "recipe": "R3",
+      "phase": "steady",
+      "value": 54.75,
+      "quality": "observed"
+    },
+    {
+      "line": "L1",
+      "at": "2026-07-03T10:21",
+      "recipe": "R3",
+      "phase": "steady",
+      "value": 55.25,
+      "quality": "observed"
+    },
+    {
+      "line": "L1",
+      "at": "2026-07-03T10:22",
+      "recipe": "R3",
+      "phase": "steady",
+      "value": 54.5,
+      "quality": "observed"
+    },
+    {
+      "line": "L1",
+      "at": "2026-07-03T10:23",
+      "recipe": "R3",
+      "phase": "steady",
+      "value": 55.0,
+      "quality": "observed"
+    },
+    {
+      "line": "L2",
+      "at": "2026-07-01T10:00",
+      "recipe": "R2",
+      "phase": "steady",
+      "value": 63.5,
+      "quality": "observed"
+    },
+    {
+      "line": "L2",
+      "at": "2026-07-01T10:02",
+      "recipe": "R2",
+      "phase": "steady",
+      "value": 64.5,
+      "quality": "observed"
+    },
+    {
+      "line": "L2",
+      "at": "2026-07-01T10:04",
+      "recipe": "R2",
+      "phase": "steady",
+      "value": 64.25,
+      "quality": "observed"
+    },
+    {
+      "line": "L2",
+      "at": "2026-07-01T10:06",
+      "recipe": "R2",
+      "phase": "steady",
+      "value": 64.0,
+      "quality": "observed"
+    },
+    {
+      "line": "L2",
+      "at": "2026-07-01T10:08",
+      "recipe": "R2",
+      "phase": "steady",
+      "value": 63.75,
+      "quality": "observed"
+    },
+    {
+      "line": "L2",
+      "at": "2026-07-01T10:10",
+      "recipe": "R2",
+      "phase": "steady",
+      "value": 63.5,
+      "quality": "observed"
+    },
+    {
+      "line": "L2",
+      "at": "2026-07-01T10:12",
+      "recipe": "R2",
+      "phase": "steady",
+      "value": 64.5,
+      "quality": "observed"
+    },
+    {
+      "line": "L2",
+      "at": "2026-07-01T10:14",
+      "recipe": "R2",
+      "phase": "steady",
+      "value": 64.25,
+      "quality": "observed"
+    },
+    {
+      "line": "L2",
+      "at": "2026-07-01T10:16",
+      "recipe": "R2",
+      "phase": "steady",
+      "value": 64.0,
+      "quality": "observed"
+    },
+    {
+      "line": "L2",
+      "at": "2026-07-01T10:18",
+      "recipe": "R2",
+      "phase": "steady",
+      "value": 63.75,
+      "quality": "observed"
+    },
+    {
+      "line": "L2",
+      "at": "2026-07-01T10:20",
+      "recipe": "R2",
+      "phase": "steady",
+      "value": 63.5,
+      "quality": "observed"
+    },
+    {
+      "line": "L2",
+      "at": "2026-07-01T10:22",
+      "recipe": "R2",
+      "phase": "steady",
+      "value": 64.5,
+      "quality": "observed"
+    },
+    {
+      "line": "L2",
+      "at": "2026-07-02T10:00",
+      "recipe": "R2",
+      "phase": "steady",
+      "value": 63.5,
+      "quality": "observed"
+    },
+    {
+      "line": "L2",
+      "at": "2026-07-02T10:02",
+      "recipe": "R2",
+      "phase": "steady",
+      "value": 64.5,
+      "quality": "observed"
+    },
+    {
+      "line": "L2",
+      "at": "2026-07-02T10:04",
+      "recipe": "R2",
+      "phase": "steady",
+      "value": 64.25,
+      "quality": "observed"
+    },
+    {
+      "line": "L2",
+      "at": "2026-07-02T10:06",
+      "recipe": "R2",
+      "phase": "steady",
+      "value": 64.0,
+      "quality": "observed"
+    },
+    {
+      "line": "L2",
+      "at": "2026-07-02T10:08",
+      "recipe": "R2",
+      "phase": "steady",
+      "value": 63.75,
+      "quality": "observed"
+    },
+    {
+      "line": "L2",
+      "at": "2026-07-02T10:10",
+      "recipe": "R2",
+      "phase": "steady",
+      "value": 63.5,
+      "quality": "observed"
+    },
+    {
+      "line": "L2",
+      "at": "2026-07-02T10:12",
+      "recipe": "R2",
+      "phase": "steady",
+      "value": 64.5,
+      "quality": "observed"
+    },
+    {
+      "line": "L2",
+      "at": "2026-07-02T10:14",
+      "recipe": "R2",
+      "phase": "steady",
+      "value": 64.25,
+      "quality": "observed"
+    },
+    {
+      "line": "L2",
+      "at": "2026-07-02T10:16",
+      "recipe": "R2",
+      "phase": "steady",
+      "value": 64.0,
+      "quality": "observed"
+    },
+    {
+      "line": "L2",
+      "at": "2026-07-02T10:18",
+      "recipe": "R2",
+      "phase": "steady",
+      "value": 63.75,
+      "quality": "observed"
+    },
+    {
+      "line": "L2",
+      "at": "2026-07-02T10:20",
+      "recipe": "R2",
+      "phase": "steady",
+      "value": 63.5,
+      "quality": "observed"
+    },
+    {
+      "line": "L2",
+      "at": "2026-07-02T10:22",
+      "recipe": "R2",
+      "phase": "steady",
+      "value": 64.5,
+      "quality": "observed"
+    },
+    {
+      "line": "L2",
+      "at": "2026-07-03T10:00",
+      "recipe": "R2",
+      "phase": "warm-up",
+      "value": 69.5,
+      "quality": "observed"
+    },
+    {
+      "line": "L2",
+      "at": "2026-07-03T10:02",
+      "recipe": "R2",
+      "phase": "warm-up",
+      "value": 70.5,
+      "quality": "observed"
+    },
+    {
+      "line": "L2",
+      "at": "2026-07-03T10:04",
+      "recipe": "R2",
+      "phase": "warm-up",
+      "value": 70.25,
+      "quality": "observed"
+    },
+    {
+      "line": "L2",
+      "at": "2026-07-03T10:06",
+      "recipe": "R2",
+      "phase": "steady",
+      "value": 64.0,
+      "quality": "observed"
+    },
+    {
+      "line": "L2",
+      "at": "2026-07-03T10:08",
+      "recipe": "R2",
+      "phase": "steady",
+      "value": 63.75,
+      "quality": "observed"
+    },
+    {
+      "line": "L2",
+      "at": "2026-07-03T10:10",
+      "recipe": "R2",
+      "phase": "steady",
+      "value": 63.5,
+      "quality": "observed"
+    },
+    {
+      "line": "L2",
+      "at": "2026-07-03T10:12",
+      "recipe": "R2",
+      "phase": "steady",
+      "value": 64.5,
+      "quality": "observed"
+    },
+    {
+      "line": "L2",
+      "at": "2026-07-03T10:14",
+      "recipe": "R2",
+      "phase": "steady",
+      "value": null,
+      "quality": "no-signal"
+    },
+    {
+      "line": "L2",
+      "at": "2026-07-03T10:16",
+      "recipe": "R2",
+      "phase": "steady",
+      "value": 57.0,
+      "quality": "observed"
+    },
+    {
+      "line": "L2",
+      "at": "2026-07-03T10:18",
+      "recipe": "R2",
+      "phase": "steady",
+      "value": 56.75,
+      "quality": "observed"
+    },
+    {
+      "line": "L2",
+      "at": "2026-07-03T10:20",
+      "recipe": "R2",
+      "phase": "steady",
+      "value": 56.5,
+      "quality": "observed"
+    },
+    {
+      "line": "L2",
+      "at": "2026-07-03T10:22",
+      "recipe": "R2",
+      "phase": "steady",
+      "value": 64.5,
+      "quality": "observed"
+    },
+    {
+      "line": "L1",
+      "at": "2026-07-02T12:00",
+      "recipe": "R3",
+      "phase": "steady",
+      "value": 54.5,
+      "quality": "observed"
+    },
+    {
+      "line": "L1",
+      "at": "2026-07-02T12:01",
+      "recipe": "R3",
+      "phase": "steady",
+      "value": 55.0,
+      "quality": "observed"
+    },
+    {
+      "line": "L1",
+      "at": "2026-07-02T12:02",
+      "recipe": "R3",
+      "phase": "steady",
+      "value": 55.5,
+      "quality": "observed"
+    },
+    {
+      "line": "L1",
+      "at": "2026-07-02T12:03",
+      "recipe": "R3",
+      "phase": "steady",
+      "value": 54.75,
+      "quality": "observed"
+    },
+    {
+      "line": "L1",
+      "at": "2026-07-02T12:04",
+      "recipe": "R3",
+      "phase": "steady",
+      "value": 55.25,
+      "quality": "observed"
+    },
+    {
+      "line": "L1",
+      "at": "2026-07-02T12:05",
+      "recipe": "R3",
+      "phase": "steady",
+      "value": 54.5,
+      "quality": "observed"
+    },
+    {
+      "line": "L1",
+      "at": "2026-07-02T12:06",
+      "recipe": "R3",
+      "phase": "steady",
+      "value": 55.0,
+      "quality": "observed"
+    },
+    {
+      "line": "L1",
+      "at": "2026-07-02T12:07",
+      "recipe": "R3",
+      "phase": "steady",
+      "value": 55.5,
+      "quality": "observed"
+    },
+    {
+      "line": "L1",
+      "at": "2026-07-02T12:08",
+      "recipe": "R3",
+      "phase": "steady",
+      "value": 54.75,
+      "quality": "observed"
+    },
+    {
+      "line": "L1",
+      "at": "2026-07-02T12:09",
+      "recipe": "R3",
+      "phase": "steady",
+      "value": 55.25,
+      "quality": "observed"
+    },
+    {
+      "line": "L1",
+      "at": "2026-07-02T12:10",
+      "recipe": "R3",
+      "phase": "steady",
+      "value": 54.5,
+      "quality": "observed"
+    },
+    {
+      "line": "L1",
+      "at": "2026-07-02T12:11",
+      "recipe": "R3",
+      "phase": "steady",
+      "value": 55.0,
+      "quality": "observed"
+    },
+    {
+      "line": "L1",
+      "at": "2026-07-02T12:12",
+      "recipe": "R3",
+      "phase": "steady",
+      "value": 55.5,
+      "quality": "observed"
+    },
+    {
+      "line": "L1",
+      "at": "2026-07-02T12:13",
+      "recipe": "R3",
+      "phase": "steady",
+      "value": 54.75,
+      "quality": "observed"
+    },
+    {
+      "line": "L1",
+      "at": "2026-07-02T12:14",
+      "recipe": "R3",
+      "phase": "steady",
+      "value": 55.25,
+      "quality": "observed"
+    },
+    {
+      "line": "L1",
+      "at": "2026-07-02T12:15",
+      "recipe": "R3",
+      "phase": "steady",
+      "value": 54.5,
+      "quality": "observed"
+    },
+    {
+      "line": "L1",
+      "at": "2026-07-02T12:16",
+      "recipe": "R3",
+      "phase": "steady",
+      "value": 55.0,
+      "quality": "observed"
+    },
+    {
+      "line": "L1",
+      "at": "2026-07-02T12:17",
+      "recipe": "R3",
+      "phase": "steady",
+      "value": 55.5,
+      "quality": "observed"
+    },
+    {
+      "line": "L1",
+      "at": "2026-07-02T12:18",
+      "recipe": "R3",
+      "phase": "steady",
+      "value": 54.75,
+      "quality": "observed"
+    },
+    {
+      "line": "L1",
+      "at": "2026-07-02T12:19",
+      "recipe": "R3",
+      "phase": "steady",
+      "value": 55.25,
+      "quality": "observed"
+    }
+  ],
+  "reference_log": [
+    {
+      "line": "L1",
+      "date": "2026-07-01",
+      "purpose": "candidate-reference"
+    },
+    {
+      "line": "L1",
+      "date": "2026-07-02",
+      "purpose": "candidate-reference"
+    },
+    {
+      "line": "L1",
+      "date": "2026-07-03",
+      "purpose": "live"
+    },
+    {
+      "line": "L2",
+      "date": "2026-07-01",
+      "purpose": "candidate-reference"
+    },
+    {
+      "line": "L2",
+      "date": "2026-07-02",
+      "purpose": "candidate-reference"
+    },
+    {
+      "line": "L2",
+      "date": "2026-07-03",
+      "purpose": "live"
+    }
+  ],
+  "route_log": [
+    {
+      "id": "P1",
+      "lot": "X8",
+      "station": "feed",
+      "start": "2026-07-03T10:09",
+      "end": "2026-07-03T10:12"
+    },
+    {
+      "id": "P2",
+      "lot": "X8",
+      "station": "L1",
+      "start": "2026-07-03T10:13",
+      "end": "2026-07-03T10:17"
+    },
+    {
+      "id": "P3",
+      "lot": "X8",
+      "station": "L2",
+      "start": "2026-07-03T10:17",
+      "end": "2026-07-03T10:20"
+    },
+    {
+      "id": "P4",
+      "lot": "X9",
+      "station": "feed",
+      "start": "2026-07-03T10:10",
+      "end": "2026-07-03T10:13"
+    },
+    {
+      "id": "P5",
+      "lot": "X9",
+      "station": "L2",
+      "start": "2026-07-03T10:15",
+      "end": "2026-07-03T10:19"
+    },
+    {
+      "id": "P6",
+      "lot": "X9",
+      "station": "L1",
+      "start": "2026-07-03T10:13",
+      "end": "2026-07-03T10:19",
+      "corrects": "P5",
+      "filed_at": "2026-07-03T11:05",
+      "start_slack_minutes": 2
+    }
+  ],
+  "inspections": [
+    {
+      "id": "I1",
+      "line": "L1",
+      "lot": "X8",
+      "begin": "2026-07-03T10:13",
+      "end": "2026-07-03T10:17",
+      "method": "抽测涂膜厚度",
+      "measured": 19.8,
+      "lower": 19,
+      "upper": 22,
+      "recorded": "2026-07-03T11:10"
+    }
+  ],
+  "hold_cards": [
+    {
+      "id": "H1",
+      "lot": "X8",
+      "line": "L1",
+      "begin": "2026-07-03T10:13",
+      "end": "2026-07-03T10:18",
+      "issued": "2026-07-03T10:30",
+      "authority": "值班甲"
+    },
+    {
+      "id": "H2",
+      "lot": "X8",
+      "line": "L2",
+      "begin": "2026-07-03T10:16",
+      "end": "2026-07-03T10:21",
+      "issued": "2026-07-03T10:35",
+      "authority": "值班乙"
+    }
+  ]
+}
